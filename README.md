@@ -15,8 +15,13 @@ Tools
 | `passive-map.sh`     | Passive ARP network mapping       |
 | `ar-phish-detect.py` | Detect Arabic phishing keywords   |
 
-Sponsor
-If this project helps you, sponsor my work ❤️
+## 💚 Support My Mission
+Low-bandwidth regions deserve world-class security tools too.  
+Your support helps me maintain servers & add Arabic/English documentation.
+
+[![Sponsor](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?logo=github)](https://github.com/sponsors/alzeer711)
+[![Open Collective](https://img.shields.io/badge/Support-Open%20Collective-7FADF2?logo=opencollective)](https://opencollective.com/yemeni-sec-toolkit)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=000)](https://buymeacoffee.com/alzeer711)
 
 #### B. cve-search.py
 1. **Add file → Create new file**.
